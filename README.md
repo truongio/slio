@@ -8,6 +8,6 @@
 * `heroku container:push web -a <APP_NAME>`
 * `heroku container:release web -a <APP_NAME>`
 
-## Running localy
+## Running locally
 * `docker build -t sl-time:latest .`
 * `docker run -e PORT=5000 -it -p 5000:5000 sl-time:latest`
