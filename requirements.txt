@@ -2,3 +2,4 @@ pyfunctional
 requests
 Flask
 pyyaml
+flask_cors
